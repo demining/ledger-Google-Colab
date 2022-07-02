@@ -205,3 +205,10 @@ hack as much as you like, then send me a pull request via GitHub.
 [expat]: http://www.libexpat.org
 [libxml2]: http://xmlsoft.org
 [openhub]: https://www.openhub.net/p/ledger
+
+----
+
+|  | Donation Address |
+| --- | --- |
+| ♥ __BTC__ | 1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v |
+| ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
